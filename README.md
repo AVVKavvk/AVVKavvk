@@ -2,7 +2,7 @@
 <h1 align="center">
 नमस्ते (Namaste), I'm Vipin Kumawat!
 </h1>
-<h3 align="center" style={text:underline}>👨‍  A passionate "MERN Developer" from India</h3>
+<h3 align="center" decoration="underline">👨‍  A passionate "MERN Developer" from India</h3>
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;MERN+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
