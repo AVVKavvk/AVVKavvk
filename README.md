@@ -71,7 +71,7 @@
 <img align="left" alt="YouTube" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
 <img align="left" alt="coursera" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Coursera_logo_%282020%29.svg" />
 
-<img align="left" alt="StackOverflow" width="200px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Stack_Overflow.png" />
+<img align="left" alt="StackOverflow" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Stack_Overflow.png" />
 
 
 <br><br><br><br>
