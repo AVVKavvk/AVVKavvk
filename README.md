@@ -1,4 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://vipinnotes.onrender.com)
+
+[![](https://visitcount.itsvg.in/api?id=AVVKavvk8&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">
 नमस्ते (Namaste), I'm Vipin Kumawat!
 </h1>
@@ -89,5 +91,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=AVVKavvk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=AVVKavvk8&icon=0&color=0)](https://visitcount.itsvg.in)
+
 [![MasterHead](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)](https://vipinkumawatportfolio.netlify.app/)
