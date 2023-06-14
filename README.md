@@ -2,7 +2,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=AVVKavvk8&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">
-नमस्ते (Namaste), I'm Vipin Kumawat!
+नमस्ते (Namaste), I'm Vipin Kumawat !
 </h1>
 <h3 align="center" decoration="underline">👨‍  A passionate "MERN Developer" from India</h3>
 <p align="center">
