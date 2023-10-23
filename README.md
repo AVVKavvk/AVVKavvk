@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **kumawatvipin066@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/vipin-resume](https://bit.ly/vipin-resume)
+- 📄 Know about my experiences [https://bit.ly/VipinKumawatResume](https://bit.ly/VipinKumawatResume)
 
 - ⚡ Fun fact **I think I am Funny**
 <br/>
