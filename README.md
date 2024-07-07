@@ -17,13 +17,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avvkavvk" alt="avvkavvk" /></a> </p> -->
 - 👨‍🏭 I’m currently pursuing **B-Tech at IIIT Pune** <br>
-- 🔭 I’m currently working on [Social Media Website](https://resocialclient.onrender.com)
+- 🔭 I’m currently working on [VipinNotes](https://vipinnotes.onrender.com)
 
-- 🌱 I’m currently learning **DSA and Blockchain**
+- 🌱 I’m currently learning **DSA and CP**
 
 - 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
 
-- 🤝 I’m looking for help with [Social Media Website](https://resocialclient.onrender.com)
+- 🤝 I’m looking for help with [Academify](https://academify.onrender.com/#)
 
 - 👨‍💻 All of my projects are available at [https://vipinkumawatportfolio.netlify.app/](https://vipinkumawatportfolio.netlify.app/)
 
@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **kumawatvipin066@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/VipinKumawatResume](https://bit.ly/VipinKumawatResume)
+- 📄 Know about my experiences [https://bit.ly/VipinKumawat](https://bit.ly/VipinKumawat)
 
 - ⚡ Fun fact **I think I am Funny**
 <br/>
