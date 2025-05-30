@@ -4,7 +4,7 @@
 <h1 align="center">
 नमस्ते (Namaste), I'm Vipin Kumawat !
 </h1>
-<h3 align="center" decoration="underline">👨‍  A passionate "MERN Developer" from India</h3>
+<h3 align="center" decoration="underline">👨‍  A passionate "Full Stack Developer"</h3>
 <p align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&width=1100&center=true&lines=Welcome+To+My+Github+Profile;FullStack+Web+Developer;MERN+Developer;Computer+Science+Engineer;Let's+Connect+To+Build+Future.)](https://git.io/typing-svg)
@@ -16,18 +16,16 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=avvkavvk&label=Profile%20views&color=0e75b6&style=flat" alt="avvkavvk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avvkavvk" alt="avvkavvk" /></a> </p> -->
-- 👨‍🏭 I’m currently pursuing **B-Tech at IIIT Pune** <br>
+- 👨‍🏭 CSE IIIT Pune'2025<br>
 - 🔭 I’m currently working on [VipinNotes](https://vipinnotes.onrender.com)
 
-- 🌱 I’m currently learning **DSA and CP**
+- 🌱 I’m currently learning **Devops**
 
 - 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
 
-- 🤝 I’m looking for help with [Academify](https://academify.onrender.com/#)
-
 - 👨‍💻 All of my projects are available at [https://vipinkumawatportfolio.netlify.app/](https://vipinkumawatportfolio.netlify.app/)
 
-- 💬 Ask me about **MERN Project and DSA**
+- 💬 Ask me about **FULL Stack**
 
 - 📫 How to reach me **kumawatvipin066@gmail.com**
 
