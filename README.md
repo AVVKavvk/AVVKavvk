@@ -19,13 +19,13 @@
 - 👨‍🏭 CSE IIIT Pune'2025<br>
 - 🔭 I’m currently working on [VipinNotes](https://vipinnotes.onrender.com)
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
 
 - 👨‍💻 All of my projects are available at [https://vipinkumawatportfolio.netlify.app/](https://vipinkumawatportfolio.netlify.app/)
 
-- 💬 Ask me about **FULL Stack**
+- 💬 Ask me about **Full Stack, GenAI, Agentic AI**
 
 - 📫 How to reach me **kumawatvipin066@gmail.com**
 
