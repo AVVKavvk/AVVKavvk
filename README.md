@@ -170,7 +170,7 @@
 <hr/>
 <h3 align="left"> Github Stats:<h3/>
 
-<br>
+<br/>
 
 <img align="right" width="270" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AVVKavvk&layout=compact&theme=blue-green" />
@@ -182,6 +182,12 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AVVKavvk&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
+<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AVVKavvk&theme=tokyonight" width="100%"/>
+
+<br>
+
 ---
+
 
 [![MasterHead](https://user-images.githubusercontent.com/121122397/216614878-411f6178-defa-4330-ba48-16db1cc92830.png)](https://vipinkumawatportfolio.netlify.app/)
