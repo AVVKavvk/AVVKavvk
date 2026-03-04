@@ -19,7 +19,7 @@
 - 👨‍🏭 CSE IIIT Pune'2025<br>
 - 🔭 I’m currently working on [VipinNotes](https://vipinnotes.onrender.com)
 
-- 🌱 I’m currently learning **Agentic AI**
+- 🌱 I’m currently learning **Kubernetes and System Design**
 
 - 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
 
