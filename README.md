@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
 
-- 👨‍💻 All of my projects are available at [https://vipinkumawatportfolio.netlify.app/](https://vipinkumawatportfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio.vipinkumawat.xyz/](https://portfolio.vipinkumawat.xyz/)
 
 - 💬 Ask me about **Full Stack, GenAI, Agentic AI**
 
