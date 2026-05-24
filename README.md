@@ -17,19 +17,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=avvkavvk" alt="avvkavvk" /></a> </p> -->
 - 👨‍🏭 CSE IIIT Pune'2025<br>
-- 🔭 I’m currently working on [VipinNotes](https://vipinnotes.onrender.com)
+- 🔭 I’m currently working on [Graxon](https://github.com/Graxon-rag/graxon)
 
-- 🌱 I’m currently learning **Kubernetes and System Design**
+- 🌱 I’m currently learning **System Design And RAG Pipeline Optimization**
 
-- 👯 I’m looking to collaborate on [Notes Website of IIIT Pune](https://vipinnotes.onrender.com)
+- 👯 I’m looking to collaborate on [Graxon](https://github.com/Graxon-rag/graxon)
 
-- 👨‍💻 All of my projects are available at [https://portfolio.vipinkumawat.xyz/](https://portfolio.vipinkumawat.xyz/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://portfolio.vipinkumawat.xyz/)
 
-- 💬 Ask me about **Full Stack, GenAI, Agentic AI**
+- 💬 Ask me about **Full Stack, Agentic AI, RAG**
 
 - 📫 How to reach me **kumawatvipin066@gmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/VipinKumawat](https://bit.ly/VipinKumawat)
+- 📄 Know about my experiences [Experiences](https://portfolio.vipinkumawat.xyz/#work)
 
 - ⚡ Fun fact **I think I am Funny**
 <br/>
